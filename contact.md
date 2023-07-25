@@ -1,8 +1,19 @@
 
 # You want to contact me?
 
+![random image](https://isg32.github.io/static/pics/1130.jpg)
 
-### Here are my contacts  
+__Date__: 25-07-23
+
+__Name__: Sapan S. Gajjar
+
+
+<p style="text-align: center;">Navigation Pane : </p>
+
+| [Home](README.md) | [About Me](aboutme.md) | [Blogs](blogs.md) | [Github](https://github.com/isg32/) | [Contact](contact.md) | 
+
+
+## Here are my contacts  
 
 - Email: **sapangajjar101105@gmail.com**  
 - Telegram: [@semisapeol](https://t.me/semisapeol)  
